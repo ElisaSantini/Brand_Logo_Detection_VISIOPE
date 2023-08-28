@@ -1,1 +1,0 @@
-# Brand_Logo_Detection_VISIOPE
