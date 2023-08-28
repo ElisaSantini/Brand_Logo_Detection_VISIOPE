@@ -1,0 +1,2 @@
+apecase-symbol 0.322 0.704 0.386 0.832
+apecase-text 0.798 0.9 0.876 0.944

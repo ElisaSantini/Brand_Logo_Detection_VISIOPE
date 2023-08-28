@@ -1,0 +1,6 @@
+budweiser-text 0.1525 0.6425 0.355 0.875
+budweiser-text 0.36 0.54 0.60375 0.735
+budweiser-text 0.63125 0.38 0.84375 0.6525
+budweiser-symbol 0.175 0.475 0.27875 0.67
+budweiser-symbol 0.39875 0.335 0.51 0.54
+budweiser-symbol 0.6375 0.2275 0.7425 0.435

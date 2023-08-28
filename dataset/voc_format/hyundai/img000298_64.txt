@@ -1,0 +1,2 @@
+hyundai-symbol 0.81 0.548 0.8525 0.59
+hyundai-symbol 0.4425 0.704 0.4575 0.722

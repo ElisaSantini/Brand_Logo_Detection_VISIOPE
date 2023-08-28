@@ -1,0 +1,2 @@
+burgerking-text 0.3 0.21875 0.522 0.28125
+burgerking-symbol 0.256 0.221875 0.29 0.2875

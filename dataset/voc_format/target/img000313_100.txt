@@ -1,0 +1,4 @@
+target-symbol 0.607 0.373 0.649 0.503
+target-symbol 0.749 0.293 0.781 0.378
+target-symbol 0.303 0.275 0.511 0.678
+target-symbol 0.002 0.261 0.079 0.715

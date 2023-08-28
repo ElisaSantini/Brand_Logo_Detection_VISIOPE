@@ -1,0 +1,8 @@
+louisvuitton-symbol 0.4225 0.4265 0.4715 0.4585
+louisvuitton-symbol 0.3475 0.55 0.382 0.6005
+louisvuitton-symbol 0.456 0.565 0.507 0.621
+louisvuitton-symbol 0.602 0.5555 0.65 0.6125
+louisvuitton-symbol 0.4655 0.7295 0.5215 0.7815
+louisvuitton-symbol 0.6185 0.717 0.6635 0.7755
+louisvuitton-symbol 0.3385 0.7115 0.3695 0.769
+louisvuitton 0.545 0.695 0.5905 0.706

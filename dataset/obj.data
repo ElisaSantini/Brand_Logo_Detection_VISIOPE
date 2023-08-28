@@ -1,0 +1,4 @@
+classes = 1
+train = /content/drive/MyDrive/VISION/train_test_split/train.txt
+names = /content/drive/MyDrive/VISION/obj.names
+backup = /content/drive/MyDrive/VISION/backup

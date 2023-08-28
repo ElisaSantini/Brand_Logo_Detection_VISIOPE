@@ -1,0 +1,4 @@
+louisvuitton 0.3835 0.624 0.4185 0.6545
+louisvuitton 0.6925 0.6125 0.7205 0.6445
+louisvuitton 0.5485 0.7265 0.5745 0.7345
+louisvuitton 0.3195 0.5185 0.337 0.541

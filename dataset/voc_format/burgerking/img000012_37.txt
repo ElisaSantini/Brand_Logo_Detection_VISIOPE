@@ -1,0 +1,2 @@
+burgerking-symbol 0.496 0.23125 0.582 0.3625
+burgerking-symbol 0.666 0.24375 0.694 0.378125
