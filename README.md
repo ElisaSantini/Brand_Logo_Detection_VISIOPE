@@ -1,4 +1,4 @@
-# Brand_Logo_Detection_VISIOPE
+# Brand Logo Detection VISIOPE
 Our project consists in  the implementation of an open set logo detector and retrieval.
 
 We have chosen this task because it has many applications in real world problems. 
