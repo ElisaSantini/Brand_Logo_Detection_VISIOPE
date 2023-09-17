@@ -17,7 +17,7 @@ For the retrival we encoded the detected logos and the reference one with ResNet
 [image]
 
 References:
-[Open Set Logo Detection and Retrival](https://arxiv.org/pdf/1710.10891.pdf)https://arxiv.org/pdf/1710.10891.pdf),
+[Open Set Logo Detection and Retrival](https://arxiv.org/pdf/1710.10891.pdf),
 
 [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497),
 
