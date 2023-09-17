@@ -9,12 +9,17 @@ From the point of view of computer vision this is a quite challenging problem to
 The project was divided in two main stages: the detection stage, where we developed a model capable of detecting logos in input images, and then the retrieval stage, where, given a query sample in the shape of a reference logo image, the task was to find further occurrences of this logo in a certain image.
 
 The dataset that we used for developing this task is Logos in the Wild Dataset. Since it is very large, and we wanted flexibility from our model we focused on open set logo retrieval.
-[immagine]
+
+![Closed set vs open set approach](open_vs_closed.png)
+
 We used Faster R-CNN and YOLOv4 and YOLOv7 as detector obtaning this results:
-[immagine]
+
+![Faster R-CNN results](MAP RECALL_final.png)
+![Yolo results](confidence.png)
+![Yolo results](yolomaps.png)
 
 For the retrival we encoded the detected logos and the reference one with ResNet-18, then we used cosine similarity to obtain similarity scores:
-[image]
+![Logo Matching](template matching.png)
 
 References:
 [Open Set Logo Detection and Retrival](https://arxiv.org/pdf/1710.10891.pdf),
