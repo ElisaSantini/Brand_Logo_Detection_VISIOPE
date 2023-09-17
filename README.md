@@ -14,12 +14,12 @@ The dataset that we used for developing this task is Logos in the Wild Dataset. 
 
 We used Faster R-CNN and YOLOv4 and YOLOv7 as detector obtaning this results:
 
-![Faster R-CNN results](MAP RECALL_final.png)
+![Faster R-CNN results](MAPRECALL_final.png)
 ![Yolo results](confidence.png)
 ![Yolo results](yolomaps.png)
 
 For the retrival we encoded the detected logos and the reference one with ResNet-18, then we used cosine similarity to obtain similarity scores:
-![Logo Matching](template matching.png)
+![Logo Matching](template_matching.png)
 
 References:
 [Open Set Logo Detection and Retrival](https://arxiv.org/pdf/1710.10891.pdf),
