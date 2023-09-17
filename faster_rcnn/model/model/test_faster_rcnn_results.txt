@@ -1,0 +1,170 @@
+creating index...
+index created!
+Test:  [  0/304]  eta: 0:08:01  model_time: 0.7114 (0.7114)  evaluator_time: 0.0155 (0.0155)  time: 1.5833  data: 0.2822  max mem: 5169
+Test:  [100/304]  eta: 0:07:23  model_time: 0.6938 (0.7068)  evaluator_time: 0.0277 (0.0380)  time: 2.1198  data: 0.0294  max mem: 5169
+Test:  [200/304]  eta: 0:03:52  model_time: 0.6943 (0.7088)  evaluator_time: 0.0319 (0.0404)  time: 2.1712  data: 0.0301  max mem: 5408
+Test:  [300/304]  eta: 0:00:09  model_time: 0.6958 (0.7091)  evaluator_time: 0.0234 (0.0376)  time: 2.1967  data: 0.0294  max mem: 5408
+Test:  [303/304]  eta: 0:00:02  model_time: 0.6921 (0.7074)  evaluator_time: 0.0212 (0.0376)  time: 2.3191  data: 0.0280  max mem: 5408
+Test: Total time: 0:11:38 (2.2961 s / it)
+Averaged stats: model_time: 0.6921 (0.7074)  evaluator_time: 0.0212 (0.0376)
+Accumulating evaluation results...
+DONE (t=1.17s).
+IoU metric: bbox
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.214
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.382
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.217
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.119
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.230
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.370
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.142
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.388
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.490
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.400
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.525
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.587
+ 
+ 
+ 
+ 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.324
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.514
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.362
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.190
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.358
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.499
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.186
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.469
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.553
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.453
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.590
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.663
+
+<coco_eval.CocoEvaluator at 0x7fd165d4dc30>
+
+Test:  [  0/304]  eta: 0:05:01  model_time: 0.7135 (0.7135)  evaluator_time: 0.0105 (0.0105)  time: 0.9912  data: 0.2587  max mem: 11091
+Test:  [100/304]  eta: 0:02:38  model_time: 0.6887 (0.7085)  evaluator_time: 0.0148 (0.0228)  time: 0.7529  data: 0.0297  max mem: 11091
+Test:  [200/304]  eta: 0:01:21  model_time: 0.6995 (0.7069)  evaluator_time: 0.0156 (0.0240)  time: 0.7853  data: 0.0374  max mem: 11091
+Test:  [300/304]  eta: 0:00:03  model_time: 0.7065 (0.7066)  evaluator_time: 0.0121 (0.0218)  time: 0.7631  data: 0.0288  max mem: 11091
+Test:  [303/304]  eta: 0:00:00  model_time: 0.7094 (0.7048)  evaluator_time: 0.0110 (0.0219)  time: 0.7362  data: 0.0265  max mem: 11091
+Test: Total time: 0:03:55 (0.7731 s / it)
+Averaged stats: model_time: 0.7094 (0.7048)  evaluator_time: 0.0110 (0.0219)
+Accumulating evaluation results...
+DONE (t=0.69s).
+IoU metric: bbox
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.357
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.554
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.402
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.211
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.398
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.535
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.198
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.487
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.560
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.456
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.598
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.673
+
+<coco_eval.CocoEvaluator at 0x7fd162497d00>
+
+creating index...
+index created!
+Test:  [  0/304]  eta: 0:05:54  model_time: 0.7348 (0.7348)  evaluator_time: 0.0123 (0.0123)  time: 1.1645  data: 0.4064  max mem: 11091
+Test:  [100/304]  eta: 0:02:40  model_time: 0.6912 (0.7090)  evaluator_time: 0.0142 (0.0260)  time: 0.7507  data: 0.0269  max mem: 11091
+Test:  [200/304]  eta: 0:01:21  model_time: 0.7003 (0.7079)  evaluator_time: 0.0195 (0.0278)  time: 0.7870  data: 0.0308  max mem: 11091
+Test:  [300/304]  eta: 0:00:03  model_time: 0.7052 (0.7071)  evaluator_time: 0.0123 (0.0247)  time: 0.7724  data: 0.0331  max mem: 11091
+Test:  [303/304]  eta: 0:00:00  model_time: 0.7060 (0.7053)  evaluator_time: 0.0125 (0.0248)  time: 0.7501  data: 0.0324  max mem: 11091
+Test: Total time: 0:03:56 (0.7792 s / it)
+Averaged stats: model_time: 0.7060 (0.7053)  evaluator_time: 0.0125 (0.0248)
+Accumulating evaluation results...
+DONE (t=1.25s).
+IoU metric: bbox
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.365
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.566
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.413
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.218
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.409
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.536
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.200
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.489
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.559
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.458
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.597
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.672
+
+<coco_eval.CocoEvaluator at 0x7fd16599c250>
+
+creating index...
+index created!
+Test:  [  0/304]  eta: 0:43:33  model_time: 8.1982 (8.1982)  evaluator_time: 0.0126 (0.0126)  time: 8.5968  data: 0.3666  max mem: 5005
+Test:  [100/304]  eta: 0:02:37  model_time: 0.6294 (0.7017)  evaluator_time: 0.0131 (0.0202)  time: 0.6837  data: 0.0253  max mem: 5014
+Test:  [200/304]  eta: 0:01:17  model_time: 0.6480 (0.6737)  evaluator_time: 0.0152 (0.0225)  time: 0.7236  data: 0.0286  max mem: 5014
+Test:  [300/304]  eta: 0:00:02  model_time: 0.6554 (0.6674)  evaluator_time: 0.0110 (0.0199)  time: 0.7116  data: 0.0301  max mem: 5014
+Test:  [303/304]  eta: 0:00:00  model_time: 0.6554 (0.6658)  evaluator_time: 0.0102 (0.0201)  time: 0.6897  data: 0.0287  max mem: 5014
+Test: Total time: 0:03:42 (0.7308 s / it)
+Averaged stats: model_time: 0.6554 (0.6658)  evaluator_time: 0.0102 (0.0201)
+Accumulating evaluation results...
+DONE (t=1.09s).
+IoU metric: bbox
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.370
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.566
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.420
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.218
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.419
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.553
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.202
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.489
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.549
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.440
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.588
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.671
+
+<coco_eval.CocoEvaluator at 0x7ef39ac5f9a0>
+
+index created!
+Test:  [  0/304]  eta: 0:04:35  model_time: 0.6602 (0.6602)  evaluator_time: 0.0122 (0.0122)  time: 0.9046  data: 0.2225  max mem: 7869
+Test:  [100/304]  eta: 0:02:21  model_time: 0.6347 (0.6289)  evaluator_time: 0.0108 (0.0195)  time: 0.6878  data: 0.0268  max mem: 7869
+Test:  [200/304]  eta: 0:01:13  model_time: 0.6526 (0.6389)  evaluator_time: 0.0099 (0.0218)  time: 0.7402  data: 0.0365  max mem: 7869
+Test:  [300/304]  eta: 0:00:02  model_time: 0.6553 (0.6450)  evaluator_time: 0.0097 (0.0190)  time: 0.7217  data: 0.0359  max mem: 7869
+Test:  [303/304]  eta: 0:00:00  model_time: 0.6572 (0.6435)  evaluator_time: 0.0097 (0.0190)  time: 0.6985  data: 0.0353  max mem: 7869
+Test: Total time: 0:03:35 (0.7099 s / it)
+Averaged stats: model_time: 0.6572 (0.6435)  evaluator_time: 0.0097 (0.0190)
+Accumulating evaluation results...
+DONE (t=0.78s).
+IoU metric: bbox
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.367
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.562
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.420
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.215
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.421
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.551
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.203
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.480
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.532
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.419
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.573
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.657
+
+<coco_eval.CocoEvaluator at 0x7ef393b9ecb0>
+
+Test:  [  0/304]  eta: 0:04:54  model_time: 0.7047 (0.7047)  evaluator_time: 0.0100 (0.0100)  time: 0.9696  data: 0.2456  max mem: 7871
+Test:  [100/304]  eta: 0:02:30  model_time: 0.6605 (0.6684)  evaluator_time: 0.0119 (0.0195)  time: 0.7139  data: 0.0285  max mem: 7871
+Test:  [200/304]  eta: 0:01:16  model_time: 0.6644 (0.6664)  evaluator_time: 0.0151 (0.0215)  time: 0.7510  data: 0.0409  max mem: 7871
+Test:  [300/304]  eta: 0:00:02  model_time: 0.6629 (0.6657)  evaluator_time: 0.0100 (0.0187)  time: 0.7193  data: 0.0287  max mem: 7871
+Test:  [303/304]  eta: 0:00:00  model_time: 0.6632 (0.6640)  evaluator_time: 0.0087 (0.0189)  time: 0.6953  data: 0.0269  max mem: 7871
+Test: Total time: 0:03:42 (0.7309 s / it)
+Averaged stats: model_time: 0.6632 (0.6640)  evaluator_time: 0.0087 (0.0189)
+Accumulating evaluation results...
+DONE (t=0.96s).
+IoU metric: bbox
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.410
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.611
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.474
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.255
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.458
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.593
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.215
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.513
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.571
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.463
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.609
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.694
