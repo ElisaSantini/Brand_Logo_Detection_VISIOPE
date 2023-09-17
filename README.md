@@ -1,4 +1,7 @@
 # Brand Logo Detection VISIOPE
+This project was made for the course VISIOPE in Sapienza University of Rome from:
+Elisa Santini, 1843552 and Antonio Sabatini, 1883292.
+
 Our project consists in  the implementation of an open set logo detector and retrieval.
 
 We have chosen this task because it has many applications in real world problems. 
